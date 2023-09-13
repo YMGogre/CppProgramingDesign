@@ -180,9 +180,7 @@ int main() {
 
 如下所示流程图展示了创建并编译 C++ 程序的一般步骤：
 
-<center>
-    <img src="./images/2-C++程序基础/3-step.PNG" alt="CreatingAndCompilingPrograms">
-</center>
+<div align="center"><img src="./images/2-C++程序基础/3-step.PNG" alt="CreatingAndCompilingPrograms"/></div>
 
 > <dl>
 >       <dt>Precompile</dt>
